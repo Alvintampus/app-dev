@@ -1,2 +1,5 @@
-# app-dev
-My first respository
+# My Favorite Movie
+
+## Stranger Things
+
+Stranger Things is set in the fictional rural town of Hawkins, Indiana, in the 1980s. The nearby Hawkins National Laboratory ostensibly performs scientific research for the United States Department of Energy but secretly experiments with the paranormal and supernatural, sometimes with human test subjects. They have inadvertently created a portal to an alternate dimension they refer to as the Upside Down, whose presence begins to affect the residents of Hawkins in calamitous ways.
